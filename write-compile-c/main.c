@@ -9,7 +9,7 @@ int valid_key(char* key){
     int i,size;
 
     size = 0;    
-    for(i=0;!key[i];i++){
+    for(i=0;key[i];i++){
         size++;
     }
 
