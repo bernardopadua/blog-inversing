@@ -1,10 +1,10 @@
-#PE - Portable Executable File
+# PE - Portable Executable File
 
 Hello, Guys!
 
 It's better using **PowerShell**. I promise the next post I will let a MAKEFILE to keep objective and easy.
 
-##Dll Consume
+## Dll Consume
 
 Entering the the folder.
 > cd .\ConsumeDll
@@ -24,7 +24,7 @@ You can execute it now.
 > cd ..
 > .\loadlib_test.exe
 
-##Resource Files
+## Resource Files
 
 Entering the the folder.
 > cd .\ResourceFile
